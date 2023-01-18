@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: fantasy, Helvetica, sans-serif;
+    background-color: #EFE1CE;
+}
+
+.heading {
+    color: rgb(98, 53, 20);
+}
+
+h2, ul, figure, footer {
+    margin: 0 0 2% 1%  ;
+}
+
+h1 {
+    font-size: 3rem;
+    text-align: center;
+}
+
+img {
+    margin-top: 1%;
+}
+
+p {
+    margin: 0 0 1% 1%  ;
+}
+
+li{
+    margin-bottom: 1%;
+}
+
+footer {
+    font-size: 0.75rem;
+}
